@@ -1,4 +1,4 @@
-# CodeAlpha_Basic_Network_Sniffer
+#   Basic_Network_Sniffer
 # 🕵️‍♂️ Basic Network Packet Sniffer (Python)
 
 A simple raw-socket network packet sniffer built with Python. This tool captures and parses live network traffic, providing insights into the underlying protocols and packet structure.
